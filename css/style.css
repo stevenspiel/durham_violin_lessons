@@ -410,7 +410,7 @@ table {
 #map-container {
     position: relative;
     width: 100%;
-    padding-bottom: 225px;
+    padding-bottom: 300px;
     height: 0;
 }
 
@@ -426,7 +426,7 @@ table {
 #overlay {
     background: rgba(0,0,0,0);
     height: 100%;
-    left: 150px;
+    left: 365px;
     position: absolute;
     top: 0;
     right: 25px;
@@ -435,7 +435,7 @@ table {
 
 #cover-up {
     background: rgba(247,247,247,1);
-    height: 10px;
+    height: 13px;
     left:0;
     right:0;
     bottom: 0;
