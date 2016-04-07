@@ -24,7 +24,19 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script type="text/javascript" src="js/jquery.easings.min.js"></script>
 	<script type="text/javascript" src="js/scrollReveal.min.js"></script>
-  <script type="text/javascript" src="js/tooltipsy.min.js"></script>
+    <script type="text/javascript" src="js/tooltipsy.min.js"></script>
+
+	  <!-- Hotjar Tracking Code for http://www.durhamviolinlessons.com -->
+	<script>
+	    (function(h,o,t,j,a,r){
+	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+	        h._hjSettings={hjid:186173,hjsv:5};
+	        a=o.getElementsByTagName('head')[0];
+	        r=o.createElement('script');r.async=1;
+	        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+	        a.appendChild(r);
+	    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+	</script>
 
 	<!--[if IE]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -107,63 +119,51 @@
 		    		<img src="images/music.png" alt="What's Provided" id="provided-img-mobile" class="icon">
 		    	</div>
     			<div class="right seventy services text">
-		    		<h1>What’s provided?</h1>
-		    		<p>
-						<b>Beginner:</b><br>
-						Weekly private lessons,<br>
-						Group music classes <br>
-						Performance opportunities
-					</p>
-					<p>
-						<b>Advanced:</b><br>
-						Weekly private lessons<br>
-						Group Lesson/combined masterclass<br>
-						Performance opportunities
-		    		</p>
+            <h1>What’s provided?</h1>
+            <p>
+  						Weekly private lessons<br>
+  						Performance opportunities<br>
+              Practice helpers and study materials<br>
+              Music Theory instruction<br>
+              Recital pianst
+            </p>
 		    	</div>
 	    	</div>
     	</div>
     </section>
-    <!-- <section id="curriculum">
-    	<div class="pull-center-container">
-    		<div class="pull-center">
-    			<h1>
-    				Curriculum
-    			</h1>
-    			<p>I teach mainly classical literature, with an emphasis on scales, theory, note-reading, and a little “fun” musical supplementation.</p>
-		    	<img src="images/gears.png" alt="What's Provided" id="provided-img" class="icon">
-    		</div>
-    	</div>
-    </section> -->
     <section id="tuition">
     	<div class="pull-center-container">
     		<div class="pull-center text">
-    			<h1>Tuition</h1>
-    			<p>$30 for half hour lesson<br>
-				   $45 for 45-minute lesson</p>
+    			<h1>Payment</h1>
+    			<p>
+            $30 for half hour lesson<br>
+				    $45 for 45-minute lesson
+          </p>
 					<p>Fees for books, strings, and all other violin accessories are not included in the pricing. I am happy to help with finding the right purchases for you and your student.</p>
-    			<!-- <p>- Schedule Widget -</p> -->
+          <p>Accompanist fees are split among all participating in the recital.</p>
+          <p>Payment is due at the first lesson of the month. I accept cash, check, or square cash.</p>
     		</div>
     	</div>
     </section>
     <section id="map-container">
-    	<div id="overlay"></div>
-    	<iframe width="100%"
-    	        height="300"
-    	        frameborder="0"
-    	        style="border:0"
-    	        id="map"
-    	        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206709.5761338852!2d-78.84519980756274!3d35.95095406831441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ace516bddfc007%3A0xc75379f4ea42e713!2s1533+Ellis+Rd!5e0!3m2!1sen!2sus!4v1399598046612">
-    	</iframe>
+      <div id="overlay"></div>  
+      <iframe frameborder="0" 
+              scrolling="no" 
+              marginheight="0" 
+              marginwidth="0"
+              width="100%" 
+              height="300" 
+              src="https://maps.google.com/maps?hl=en&q=6507 Clarksdale Ln&ie=UTF8&t=roadmap&z=12&iwloc=B&output=embed">
+      </iframe>
     	<div id="cover-up"></div>
     </section>
-    <section id="exploration">
+    <section id="requirements">
        	<div class="pull-center-container">
     		<div class="pull-center">
     			<div class="left seventy text">
-			    	<h1>Toddler exploring music class</h1>
-			    	<p>One group class each week.</p>
-			    	<p>Forty-five minutes of interaction and play, We will explore music while singing, clapping, Story-telling, and playing. You will be amazed at the connection your toddler will make with the music.</p>
+			    	<h1>Requirements</h1>
+			    	<p>Students are expected to practice 6 days per week. I will do everything in my power to help practicing to be a positive and productive time. But in the end, the responsibility lies with you and your child.</p>
+            <p>If you need to cancel a lesson, I need to know at least 24 hours in advance, or you will be charged the lesson price.</p>
     			</div>
     			<div class="right thirty icon-container">
     				<img src="images/star.png" alt="Toddler Class" id="home-img" class="icon" data-scroll-reveal>
@@ -174,14 +174,14 @@
     <section class="full-image" id="heather-playing">
     </section>
     <section id="about">
-    	<div class="pull-center-container">
-    		<div class="pull-center text">
-    			<h1>About Me</h1>
-    			<p>Violin study began at the age of four in my family. From All-State to small group ensembles I have been involved in music a lot. I enjoyed doing this so much I decided to go to Brigham Young University-Idaho to continue my musical study. I was concert mistress of two of the top orchestras and learned so much from my fellow colleagues there.</p>
-    			<p>After graduating with my Bachelor of Arts in Music I went on to play in the Idaho Falls Symphony and begin a studio of my own in Idaho Falls and Rexburg, Idaho.</p>
-				<p>We have planted our family here in Durham and are thrilled with the artistic community we are a part of in the Raleigh-Durham area. I have taught violin for over seven years, and hope to teach your students in the coming years here in North Carolina.</p>
-    		</div>
-    	</div>
+      <div class="pull-center-container">
+        <div class="pull-center text">
+          <h1>About Me</h1>
+          <p>Violin study began at the age of four in my family. From All-State to small group ensembles I have been involved in music a lot. I enjoyed doing this so much I decided to go to Brigham Young University-Idaho to continue my musical study. I was concert mistress of two of the top orchestras and learned so much from my fellow colleagues there.</p>
+          <p>After graduating with my Bachelor of Arts in Music I went on to play in the Idaho Falls Symphony and begin a studio of my own in Idaho Falls and Rexburg, Idaho.</p>
+          <p>We have planted our family here in Durham and are thrilled with the artistic community we are a part of in the Raleigh-Durham area. I have taught violin for over seven years, and hope to teach your students in the coming years here in North Carolina.</p>
+        </div>
+      </div>
     </section>
 </div>
 
